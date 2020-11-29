@@ -1,8 +1,8 @@
 import React from 'react';
 import { useEffect } from 'react';
 import { useState } from 'react';
-import axiso from './axios';
-import requests from './requests';
+import axiso from './../axios';
+import requests from '../requests';
 import './Banner.css';
 
 const Banner = () => {

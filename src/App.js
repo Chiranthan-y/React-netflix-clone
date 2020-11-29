@@ -1,10 +1,13 @@
 import React from 'react';
 
 import './App.css';
-import Row from './Row';
-import Banner from './Banner';
+
+//components
+import Row from './Components/Row';
+import Banner from './Components/Banner';
 import request from './requests';
-import Navbar from './Navbar';
+import Navbar from './Components/Navbar';
+
 function App() {
   return (
     <div className='app'>
