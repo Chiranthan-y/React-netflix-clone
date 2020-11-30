@@ -1,7 +1,5 @@
-Run npm i to install the node_modules
+# Run **npm i** to install the node_modules
 
-Run npm strat to launch 
- visit to watch the netflix clone https://netflix-clone-9ecdf.firebaseapp.com/
-
-happy coding........
+# Run **npm strat** to launch 
+ visit **netflix clone** https://netflix-clone-9ecdf.firebaseapp.com/
 
